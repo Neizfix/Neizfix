@@ -1,6 +1,6 @@
-<h1 align="center">Merhaba Neizfix</h1>
+<h1 align="center">Merhaba Ben Neizfix</h1>
 <h3 align="center">Ben Discord Ve Fivem Developerlığı Yapıyorum</h3>
-<img alingn="right" alt="Kodlama" width="400" src="https://giphy.com/explore/full-stack-developer.gif">
+<img alingn="right" alt="Kodlama" width="400" src="[https://giphy.com/explore/full-stack-developer.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw4MjhmYXZqZnB6d3BuaXM2N2U5eWJhN2cwdTVtN3UxdDJsc3R4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neizfix&label=Profile%20views&color=0e75b6&style=flat" alt="neizfix" /> </p>
 
