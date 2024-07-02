@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neizfix&label=Profile%20views&color=0e75b6&style=flat" alt="neizfix" /> </p>
 
-- Şuan Kendi Paketimi Yapıyorum **Neizgunv1**
+- Şuan Kendi Paketimi Yapıyorum **Neizgunv2**
+
+- Paketime Ulaşmak İçin **neizfix**
 
 - Yardım İçin **discord : neizfix**
 
