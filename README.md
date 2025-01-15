@@ -1,8 +1,8 @@
-# 🌟 Merhaba Ben Neizfix
+# 🌟 **Merhaba Ben Neizfix** 🌟
 
-### 💻 Discord & FiveM Developer | Backend & Frontend Enthusiast
+### 💻 **Discord & FiveM Developer | Backend & Frontend Enthusiast**
 
-![Neizfix Gif](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif)
+![Neizfix Animation](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif)
 
 ---
 
@@ -10,26 +10,33 @@
 
 ---
 
-### 🚀 Hakkımda
-Ben bir **Discord Bot** ve **FiveM** geliştiricisiyim. Ayrıca yazılım geliştirmeyi ve yeni projelere hayat vermeyi çok seviyorum. Şu anda **Neizgunv2** adlı paketimi oluşturuyorum. Eğer yazılım geliştirme, FiveM veya Discord botları hakkında konuşmak istersen, her zaman yardımcı olabilirim.
+## 🚀 **Hakkımda**
+
+Merhaba! Ben **Neizfix**, **Discord Bot** ve **FiveM** geliştiricisiyim. Yazılım geliştirme benim tutkum. Şu anda **Neizgunv2** adlı paketimi geliştirmek için çalışıyorum. Her zaman yeni projelere açık ve yaratıcı biriyim.
 
 ---
 
-### 🔧 Şu Anki Projem
-**Neizgunv2** paketim üzerinde çalışıyorum. Daha fazla bilgi almak için benimle iletişime geçebilirsin.
+## 💼 **Şu Anki Projem: Neizgunv2**
 
-- **Discord Yardım için:** [neizfix#0001](https://discord.gg/neizfix)
+**Neizgunv2**, **FiveM** sunucuları için özel olarak tasarlanmış gelişmiş özelliklere sahip bir modüldür. Eğer bir **FiveM** sunucusu işletiyorsanız ve güçlü bir modül arıyorsanız, **Neizgunv2** tam size göre!
+
+- **Yardım İçin Discord:** [neizfix#0001](https://discord.gg/neizfix)
 - **Paketime Ulaşmak İçin:** `neizfix`
-  
----
-
-### 📱 Beni Takip Edin
-- **Discord:** [Neizfix](https://discord.gg/neizfix)
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
-Aşağıda, projelerimde kullandığım bazı teknolojiler bulunmaktadır:
+## 🌍 **Beni Takip Edin**
+
+Takip edin ve daha fazla projede birlikte çalışalım:
+
+- [**Discord**](https://discord.gg/arentuza)
+- [**GitHub**](https://github.com/neizfix)
+
+---
+
+## 🛠️ **Kullandığım Teknolojiler**
+
+Projelerimi geliştirirken aşağıdaki teknolojileri kullanıyorum:
 
 - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Web geliştirme ve Discord botları için.
 - ![MariaDB](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg) [**MariaDB**](https://mariadb.org/) - Veritabanı yönetimi.
@@ -39,22 +46,35 @@ Aşağıda, projelerimde kullandığım bazı teknolojiler bulunmaktadır:
 
 ---
 
-### 🧑‍💻 Bağlantılar
-- **Discord:** [Neizfix](https://discord.gg/neizfix)
-- **GitHub:** [neizfix](https://github.com/neizfix)
-- **Twitter:** [@neizfix](https://twitter.com/neizfix)
+## 📱 **İletişime Geçin**
+
+Projelerimle ilgili yardım almak veya sadece sohbet etmek için aşağıdaki sosyal medya bağlantılarına göz atabilirsiniz:
+
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/neizfix)
+[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/neizfix)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/neizfix)
 
 ---
 
-### 💬 İletişim ve Yardım
-Proje hakkında yardım almak veya sadece sohbet etmek için bana [Discord'dan ulaşabilirsiniz](https://discord.gg/neizfix).
+## ✨ **Projelerim ve Katkılarım**
+
+- **Neizgunv2**: FiveM modülüm, güçlü özellikler ve optimizasyonlar içeriyor.
+- **NeizBot**: Discord için geliştirdiğim ve her gün kullanılan botlarım.
 
 ---
 
-### 👨‍💻 Projelerim
-**Neizgunv2** ve diğer Discord botları hakkında projelerimi GitHub'da bulabilirsiniz. Kendi yazdığım botlar ve geliştirdiğim araçlarla ilgili güncellemeleri takip edebilirsiniz.
+## 💬 **Yardım ve Destek**
+
+Yazılım projelerimle ilgili yardıma mı ihtiyacınız var? **Discord** üzerinden iletişime geçebilirsiniz.
+
+- **Discord:** [Neizfix](https://discord.gg/arentuza)
 
 ---
 
-#### 👨‍💻 Created by **Neizfix**
+## 🌱 **Teknik Detaylar**
 
+Projelerde kullandığım teknolojilerle ilgili detaylı bilgilere [buradan ulaşabilirsiniz](https://github.com/neizfix).
+
+---
+
+### 👨‍💻 **Created with ❤️ by Neizfix**
