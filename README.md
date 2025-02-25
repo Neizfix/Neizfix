@@ -19,12 +19,6 @@ Geliştirici topluluğuma katılın! Sorular sorabilir, projeler hakkında konu�
 - **Discord**: NeizDev#1234
 - **GitHub**: [github.com/NeizDev](https://github.com/NeizDev)
 
-## Lisans
+![](https://komarev.com/ghpvc/?Neizfix=your-github-Neizfix&color=green)
 
-Bu projeler, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
-## Profil Görüntülenme
-
-Profilinizin görüntülenme sayısını görmek için aşağıdaki bağlantıyı kullanabilirsiniz.
-
-[Profil Görüntülenme Linki](https://lanyard.cnrad.dev/api/1172925617633767489)
