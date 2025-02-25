@@ -79,4 +79,4 @@ Projelerde kullandığım teknolojilerle ilgili detaylı bilgilere [buradan ula�
 
 ### 👨‍💻 **Created with ❤️ by Neizfix**
 
-https://discord.com/users/1172925617633767489
+[Neiz](https://discord.com/users/1172925617633767489)
