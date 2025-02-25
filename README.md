@@ -9,7 +9,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 
 
-- ![https://img.shields.io/badge/Discord-Sunucusuna%20Katıl-7289DA?style=flat-square&logo=discord&logoColor=ffffff](https://discord.gg/neizdev)
+- ![Discord](https://img.shields.io/badge/Discord-Sunucusuna%20Katıl-7289DA?style=flat-square&logo=discord&logoColor=ffffff)(https://discord.gg/neizdev)
 
 ## İletişim
 
