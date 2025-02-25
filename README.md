@@ -1,21 +1,15 @@
-# NeizDev - Discord & FiveM Developer
-<img src="https://lanyard.cnrad.dev/api/1172925617633767489?idleMessage=discord.%20gg%20/%20neizdev" alt="Discord Profilim" style="max-width: 100%;"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neizfix" alt="neizfix" /></a> </p>
 
-## Diller
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/discord.gg/neizdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/neizdev" height="30" width="40" /></a>
+</p>
 
-- ![Lua](https://img.shields.io/badge/-Lua-3d8c9e?style=flat-square&logo=lua&logoColor=ffffff)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neizfix&show_icons=true&locale=en&layout=compact" alt="neizfix" /></p>
 
-https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neizfix&show_icons=true&locale=en" alt="neizfix" /></p>
 
-## İletişim
-
-- **Discord**: NeizDev#1234
-- **GitHub**: [github.com/NeizDev](https://github.com/NeizDev)
-
-![](https://komarev.com/ghpvc/?username=Neizfix&color=green)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neizfix&" alt="neizfix" /></p>
