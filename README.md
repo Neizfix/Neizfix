@@ -19,6 +19,6 @@ Geliştirici topluluğuma katılın! Sorular sorabilir, projeler hakkında konu�
 - **Discord**: NeizDev#1234
 - **GitHub**: [github.com/NeizDev](https://github.com/NeizDev)
 
-![Neizfix](https://komarev.com/ghpvc/?Neizfix=your-github-Neizfix&color=green)
+![](https://komarev.com/ghpvc/?username=Neizfix&color=green)
 
 
