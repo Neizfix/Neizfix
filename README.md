@@ -1,5 +1,5 @@
 # NeizDev - Discord & FiveM Developer
-<img src="https://lanyard.cnrad.dev/api/1172925617633767489idleMessage=SA" alt="Discord Profilim" style="max-width: 100%;"/>
+<img src="https://lanyard.cnrad.dev/api/1172925617633767489" alt="Discord Profilim" style="max-width: 100%;"/>
 
 ## Diller
 
