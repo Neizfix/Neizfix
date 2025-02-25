@@ -15,7 +15,7 @@ Eğer bu projeye katkıda bulunmak isterseniz, lütfen önce ilgili proje dosyas
 
 Discord profil bilgilerinizi görmek için aşağıdaki görsele tıklayın.
 
-<img src="https://lanyard.cnrad.dev/api/571989790434787348" alt="Discord Profilim" style="max-width: 100%;"/>
+<img src="https://lanyard.cnrad.dev/api/1172925617633767489" alt="Discord Profilim" style="max-width: 100%;"/>
 
 ## Discord Sunucusu
 
